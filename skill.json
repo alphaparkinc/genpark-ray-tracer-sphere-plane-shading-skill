@@ -1,0 +1,9 @@
+{
+  "schema_version": "v1",
+  "name": "genpark-ray-tracer-sphere-plane-shading-skill",
+  "version": "1.0.0",
+  "description": "3D Whitted-style ray tracer with sphere/plane geometric intersection and Phong reflection shading.",
+  "entrypoint": "client.py",
+  "mcp_server": "mcp_server.py",
+  "category": "Service"
+}
